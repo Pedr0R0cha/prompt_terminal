@@ -2,7 +2,8 @@
 Uma forma mais simples de pegar entrada padrão do sistema no NodeJS.
 
 ### Segue a forma de uso
-É necessário realizar a saída do processo para o processo não ficar esperando o ctrl+c.
+#### A função só retorna os tipos string e number
+#### É necessário realizar a saída do processo para o processo não ficar esperando o ctrl+c.
 ```
 const prompt = require('prompt_terminal');
 async function main() {
