@@ -1,6 +1,6 @@
 {
   "name": "prompt_terminal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Uma forma mais simples de capturar entrada padrão do sistema(console/terminal).",
   "main": "index.js",
   "scripts": {
