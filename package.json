@@ -1,0 +1,26 @@
+{
+  "name": "prompt_terminal",
+  "version": "1.0.0",
+  "description": "Uma forma mais simples de capturar entrada padrão do sistema(console/terminal).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jhsdjsad"
+  },
+  "keywords": [
+    "prompt",
+    "terminal",
+    "console",
+    "stdin",
+    "stdout",
+    "input."
+  ],
+  "author": "Igor Silva",
+  "license": "ISC",
+  "dependencies": {
+    "readme-md-generator": "^0.7.0"
+  }
+}
